@@ -45,21 +45,21 @@ The approach taken in this paper used to derive the motions of equations is that
 Starting the interpretation of the free body diagrams from Figure 2, Newton’s second law is applied in order to balance the forces.
 
 <p align="center"><img src="1.JPG" width="35%" />
-<p align="center"><img src="2.JPG" width="250" />
-<p align="center"><img src="3.JPG" width="250" />
-<p align="center"><img src="4.JPG" width="250" />
-<p align="center"><img src="5.JPG" width="250" />
-<p align="center"><img src="6.JPG" width="250" />
-<p align="center"><img src="7.JPG" width="250" />  
-<p align="center"><img src="8.JPG" width="250" />
-<p align="center"><img src="9.JPG" width="250" /> 
-<p align="center"><img src="10.JPG" width="250" />
-<p align="center"><img src="11.JPG" width="250" />
-<p align="center"><img src="12.JPG" width="250" />
-<p align="center"><img src="13.JPG" width="250" />
-<p align="center"><img src="14.JPG" width="250" />
-<p align="center"><img src="15.JPG" width="250" />
-<p align="center"><img src="16.JPG" width="250" />  
+<p align="center"><img src="2.JPG" width="35%" />
+<p align="center"><img src="3.JPG" width="35%" />
+<p align="center"><img src="4.JPG" width="35%" />
+<p align="center"><img src="5.JPG" width="35%" />
+<p align="center"><img src="6.JPG" width="35%" />
+<p align="center"><img src="7.JPG" width="35%" />  
+<p align="center"><img src="8.JPG" width="35%" />
+<p align="center"><img src="9.JPG" width="35%" /> 
+<p align="center"><img src="10.JPG" width="35%" />
+<p align="center"><img src="11.JPG" width="35%" />
+<p align="center"><img src="12.JPG" width="35%" />
+<p align="center"><img src="13.JPG" width="35%" />
+<p align="center"><img src="14.JPG" width="35%" />
+<p align="center"><img src="15.JPG" width="35%" />
+<p align="center"><img src="16.JPG" width="35%" />  
   
   
   
