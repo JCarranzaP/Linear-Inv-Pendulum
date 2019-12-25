@@ -1,7 +1,8 @@
-<p align="center">Controls Final Project
+<p>Controls Final Project</p>
 ## Translational Inverted Pendulum
 ## MECA 482 Controls Theory and Design
 ## California State University, Chico
+
 
 <br/>
 
