@@ -1,29 +1,16 @@
 # Linear-Inv-Pendulum
 
-Hi Luis
-
-
-click on the pencil and see if you can edit it
-
-
-
-
-Yes
-
-
-hold up
-
-<!--
-  /*
-   * webpage url
-   *  https://mechaengbryan.github.io/
-   */
--->
-
+## Controls Final Project
+## Translational Inverted Pendulum
+## MECA 482 Controls Theory and Design
 ## California State University, Chico
-## Mecahanical and Mechatronic Engineering
-## MECA 482 Controls - Temperature Control System - Group Project Website
-## MECA 440 Engineerinig Capstone - SLAC Reservoir Cooling System Modeling
+
+<br/>
+
+Ahmad Alherz
+Jorge Carranza Perez
+Luis Hernandez
+Cristian Rodriguez
 
 <p align="center">
 
@@ -33,7 +20,7 @@ hold up
 ### Project Description
 
 
-Leveraging our Senior Capstone Project’s problem, we are creating a mathematical model that will programmatically capture the temperature control system. Our project is being tasked with controlling the temperature of a 4” in length x 0.5” in diameter 316 Stainless Steel cylinder – this cylinder is used as a holding reservoir for samples used during experimentation. Initial conditions for the cylinder are standard laboratory conditions e.g. 24°C and 50% RH. The final condition for the cylinder is 4 +/- 0.25°C after 5 minutes i.e. must achieve an average -5°C/minute ramp rate
+
 <br/>
 <br/>
 <br/>
