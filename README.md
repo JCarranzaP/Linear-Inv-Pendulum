@@ -7,6 +7,7 @@
 <br/>
 
 <p align="center">Ahmad Alherz</p>
+<p align="center">Alex Gentes</p>
 <p align="center">Jorge Carranza Perez</p>
 <p align="center">Luis Hernandez</p>
 <p align="center">Cristian Rodriguez</p>
