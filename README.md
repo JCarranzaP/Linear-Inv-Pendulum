@@ -33,7 +33,7 @@ The first step in deriving the mathematical equations of motion is to draw out t
 
 <br/>
 
-<p align="center"><img src="fbd.JPG" width="250" />
+<p align="center"><img src="fbd.JPG" width="50%" />
 <p align="center">Figure 2. (a) Free body diagram of isolated pendulum (b) Free body diagram of sliding cart attached to pendulum.</p>
 
 <br/>
@@ -46,7 +46,7 @@ Starting the interpretation of the free body diagrams from Figure 2, Newton’s 
 
 <p align="center"><img src="1.JPG" width="35%" />
 <p align="center"><img src="2.JPG" width="35%" />
-<p align="center"><img src="3.JPG" width="35%" />
+<p align="center"><img src="3.JPG" width="50%" />
 
 <br/>
 
@@ -56,7 +56,7 @@ The next step in turning the kinematic equations into usable mathematical repres
 
 <br/>
 
-<p align="center"><img src="4.JPG" width="35%" />
+<p align="center"><img src="4.JPG" width="20%" />
   
 <br/>
 
@@ -72,8 +72,8 @@ Relating equation [5] to the free body diagram on Figure 2 it can be seen that t
 
 <br/>
 
-<p align="center"><img src="6.JPG" width="35%" />
-<p align="center"><img src="7.JPG" width="35%" />  
+<p align="center"><img src="6.JPG" width="40%" />
+<p align="center"><img src="7.JPG" width="80%" />  
 
 <br/>
 
@@ -81,8 +81,8 @@ Equation [7] is simply equation [6] written in the frame of reference of i and j
 
 <br/>
 
-<p align="center"><img src="8.JPG" width="35%" />
-<p align="center"><img src="9.JPG" width="35%" /> 
+<p align="center"><img src="8.JPG" width="70%" />
+<p align="center"><img src="9.JPG" width="75%" /> 
   
 <br/>
 
@@ -91,8 +91,8 @@ Getting rid of the T value in equations [8] and [9] is achievable by multiplying
 <br/>
 
 
-<p align="center"><img src="10.JPG" width="35%" />
-<p align="center"><img src="11.JPG" width="35%" />
+<p align="center"><img src="10.JPG" width="60%" />
+<p align="center"><img src="11.JPG" width="70%" />
   
 <br/>
 
@@ -100,16 +100,16 @@ Equations [10] and [11] are the resulting equations of motion that describe the 
 
 <br/>
 
-<p align="center"><img src="12.JPG" width="35%" />
-<p align="center"><img src="13.JPG" width="35%" />
+<p align="center"><img src="12.JPG" width="45%" />
+<p align="center"><img src="13.JPG" width="45%" />
 <p align="center"><img src="14.JPG" width="35%" />
   
 <br/>
 
 With equations [12] through [14] we are able to substitute the approximate value for the nonlinear portion of the motion equations, evaluated at a known value with small deviations. Doing this, we substitute all sin() and cos() portions in equations [10] and [11] with -1 and -phi. Since theta dot squared is also a nonlinear term, we evaluate that to be phi squared which we want to be as close to zero as possible. The physical representation of this value would be the velocity of the pendulum. After making the substitution, we end up with the equations below.
 
-<p align="center"><img src="15.JPG" width="35%" />
-<p align="center"><img src="16.JPG" width="35%" />  
+<p align="center"><img src="15.JPG" width="45%" />
+<p align="center"><img src="16.JPG" width="45%" />  
   
 <br/>
 
