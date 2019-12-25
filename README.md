@@ -24,7 +24,7 @@
 The goal of the control theory in this project is to describe and predict the underactuated and non-linear motion of a pendulum, and control it to balance upright. What can be expected from this project is a mathematical representation of the physical model that can be run on a computer software system such as matlab or simulink in order to virtually test the systems response to varying conditions. Finally, we will be adding a PID controller in order to balance the pendulum in an upright position. This step will be facilitated through the use of the matlab function “pid”.
 <br/>
 
-<p align="center"><img src="model.jpg" width="250" />
+<p align="center"><img src="model.JPG" width="250" />
 <p align="center">Figure 1. Simplified model of Inverted Pendulum</p>
 
 <br/>
