@@ -1,15 +1,15 @@
 <p>Controls Final Project</p>
-## Translational Inverted Pendulum
-## MECA 482 Controls Theory and Design
-## California State University, Chico
+<p>Translational Inverted Pendulum</p>
+<p>MECA 482 Controls Theory and Design</p>
+<p>California State University, Chico</p>
 
 
 <br/>
 
-Ahmad Alherz
-Jorge Carranza Perez
-Luis Hernandez
-Cristian Rodriguez
+<p>Ahmad Alherz</p>
+<p>Jorge Carranza Perez</p>
+<p>Luis Hernandez</p>
+<p>Cristian Rodriguez</p>
 
 <p align="center">
   
