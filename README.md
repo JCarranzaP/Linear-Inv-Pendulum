@@ -1,5 +1,3 @@
-# Linear-Inv-Pendulum
-
 ## Controls Final Project
 ## Translational Inverted Pendulum
 ## MECA 482 Controls Theory and Design
@@ -7,12 +5,13 @@
 
 <br/>
 
-##Ahmad Alherz
-##Jorge Carranza Perez
-##Luis Hernandez
-##Cristian Rodriguez
+## Ahmad Alherz
+## Jorge Carranza Perez
+## Luis Hernandez
+## Cristian Rodriguez
 
 <p align="center">
+  
 
 <br/>
 <br/>
