@@ -3,7 +3,7 @@
 <p align="center">MECA 482 Controls Theory and Design</p>
 <p align="center">California State University, Chico</p>
 
-<p align="center"><img src="CSUCHICO-Seal-Color.png" width="50" />
+<p align="center"><img src="CSUCHICO-Seal-Color.png" width="150" />
 <br/>
 
 <p align="center">Ahmad Alherz</p>
