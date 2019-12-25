@@ -33,7 +33,7 @@ The first step in deriving the mathematical equations of motion is to draw out t
 
 <br/>
 
-<p align="center"><img src="fbd.jpg" width="250" />
+<p align="center"><img src="fbd.JPG" width="250" />
 <p align="center">Figure 2. (a) Free body diagram of isolated pendulum (b) Free body diagram of sliding cart attached to pendulum.</p>
 
 <br/>
@@ -44,22 +44,22 @@ The approach taken in this paper used to derive the motions of equations is that
 
 Starting the interpretation of the free body diagrams from Figure 2, Newton’s second law is applied in order to balance the forces.
 
-<p align="center"><img src="1.jpg" width="250" />
-<p align="center"><img src="2.jpg" width="250" />
-<p align="center"><img src="3.jpg" width="250" />
-<p align="center"><img src="4.jpg" width="250" />
-<p align="center"><img src="5.jpg" width="250" />
-<p align="center"><img src="6.jpg" width="250" />
-<p align="center"><img src="7.jpg" width="250" />  
-<p align="center"><img src="8.jpg" width="250" />
-<p align="center"><img src="9.jpg" width="250" /> 
-<p align="center"><img src="10.jpg" width="250" />
-<p align="center"><img src="11.jpg" width="250" />
-<p align="center"><img src="12.jpg" width="250" />
-<p align="center"><img src="13.jpg" width="250" />
-<p align="center"><img src="14.jpg" width="250" />
-<p align="center"><img src="15.jpg" width="250" />
-<p align="center"><img src="16.jpg" width="250" />  
+<p align="center"><img src="1.JPG" width="250" />
+<p align="center"><img src="2.JPG" width="250" />
+<p align="center"><img src="3.JPG" width="250" />
+<p align="center"><img src="4.JPG" width="250" />
+<p align="center"><img src="5.JPG" width="250" />
+<p align="center"><img src="6.JPG" width="250" />
+<p align="center"><img src="7.JPG" width="250" />  
+<p align="center"><img src="8.JPG" width="250" />
+<p align="center"><img src="9.JPG" width="250" /> 
+<p align="center"><img src="10.JPG" width="250" />
+<p align="center"><img src="11.JPG" width="250" />
+<p align="center"><img src="12.JPG" width="250" />
+<p align="center"><img src="13.JPG" width="250" />
+<p align="center"><img src="14.JPG" width="250" />
+<p align="center"><img src="15.JPG" width="250" />
+<p align="center"><img src="16.JPG" width="250" />  
   
   
   
