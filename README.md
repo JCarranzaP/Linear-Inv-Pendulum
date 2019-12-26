@@ -158,9 +158,22 @@ Using the state space model described above we first ran the open loop response,
 <br/>
 
 <p align="center"><img src="matlabssr.JPG" width="45%" />
+<p align="center">Figure 3. Matlab Code Showing State Space Representation (SSR) and PID control
+  
+<br/>
+
 <p align="center"><img src="step1.JPG" width="45%" /> 
+<p align="center">Figure 4. Open loop response of pendulum SSR
+  
+<br/>
+
 <p align="center"><img src="step2.JPG" width="45%" /> 
+<p align="center">Figure 5. Pendulum SSR with PID control after step input
+
+<br/>
+
 <p align="center"><img src="step3.JPG" width="45%" /> 
+<p align="center">Figure 6. Response showing peak ampliture, settling time and final value
   
 <br/>
 
@@ -169,9 +182,16 @@ We then ran the transfer functions involving the intertial effects of the pendul
 <br/>
 
 <p align="center"><img src="matlabtf.JPG" width="45%" />
+<p align="center">Figure 7. Matlab Code Showing Transfer Functions and PID control
+
 <p align="center"><img src="tf1.JPG" width="45%" /> 
+<p align="center">Figure 8. Open loop response of transfer functions
+
 <p align="center"><img src="tf2.JPG" width="45%" /> 
+<p align="center">Figure 9. Pendulum transfer functions with PIC control after step input
+
 <p align="center"><img src="tf3.JPG" width="45%" /> 
+<p align="center">Figure 10. Response showing peak amplitude and settling time
 
 <br/>
 
@@ -181,6 +201,8 @@ Taking into account the inertial effects gave us a more realistic model showeing
 
 After establishing a successful control using transfer functions. We prepared two models to test on vrep. The first utilizes an existing mobile robot model (Pioneer p3dx) which we modified and added an inverted pendulum to its top platform. This model closely resembles the state stace model/transfer functions which were derived above. Our second model is a pendulum fixed on a rail. Upon succesful control of our first model our next goal would be to swing the pendulum from a down position to inverted. Unfortunately, we ran into some problems in reading the angle of the pendulum. This angle and the position of the cart would be our inputs for our current state space representation.
 
+<p align="center"><img src="vrepmatlab.JPG" width="45%" /> 
+<p align="center"><img src="vrep1.JPG" width="45%" /> 
 
 
 
