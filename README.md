@@ -141,8 +141,11 @@ When trying to tune the PID controller using the above equations we found that t
 <br/>
 
 <p align="center"><img src="23.JPG" width="45%" />
-<p align="center"><img src="24.JPG" width="45%" /> 
-<p align="center"><img src="25.JPG" width="45%" /> 
+  [23] 
+<p align="center"><img src="24.JPG" width="45%" />
+  [24] 
+<p align="center"><img src="25.JPG" width="45%" />
+  [25] 
   
 <br/>
 
