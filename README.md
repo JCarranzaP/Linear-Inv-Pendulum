@@ -149,7 +149,7 @@ When trying to tune the PID controller using the above equations we found that t
   
 <br/>
 
-<p align="center">Controller Design and Simulation</p>
+<p align="center">Controller Design</p>
 
 <br/>
 
@@ -168,7 +168,15 @@ We then ran the transfer functions involving the intertial effects of the pendul
 
 <br/>
 
+<p align="center"><img src="matlabtf.JPG" width="45%" />
+<p align="center"><img src="tf1.JPG" width="45%" /> 
+<p align="center"><img src="tf2.JPG" width="45%" /> 
+<p align="center"><img src="tf3.JPG" width="45%" /> 
+
+<br/>
+
+Taking into account the inertial effects gave us a more realistic model showeing that the system would correct itself after a rotation of 0.044 radians and after 0.84 seconds would reach a steady state. Comparable to our non-inertial system these time are more realistic.
+
+<p align="center">Simulation</p>
 
 
-
-<p align="center">
