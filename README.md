@@ -126,25 +126,25 @@ Equations [17] and [18] are the result of the Laplace transport, of which, equat
 
 <br/>
 
-<p align="center"><img src="19.JPG" width="45%" />
+<p align="center"><img src="19.JPG" width="40%" />
 <p align="center"><img src="20.JPG" width="45%" /> 
   
 The State Space Representation of the system can also be achieved in the same manner. Taking equation [16] and solving for Phi double dot we can substitute it into equation [15] to eliminate the Phi double dot completely resulting in equation [21]. Vice versa solving for X double dot in equation [15] and substituting into equation [16] eliminates X double dot and results in equation [22].
 
 <br/>
 
-<p align="center"><img src="21.JPG" width="45%" />
-<p align="center"><img src="22.JPG" width="45%" /> 
+<p align="center"><img src="21.JPG" width="30%" />
+<p align="center"><img src="22.JPG" width="40%" /> 
   
 When trying to tune the PID controller using the above equations we found that the system was too unstable to achieve a desirable outcome, as can be seen in the controller design and simulation section. Therefore, following the aforementioned steps we arrived at the following transfer functions which do account for the inertial mass of the pendulum. 
 
 <br/>
 
-<p align="center"><img src="23.JPG" width="45%" />
+<p align="center"><img src="23.JPG" width="55%" />
   [23] 
-<p align="center"><img src="24.JPG" width="45%" />
+<p align="center"><img src="24.JPG" width="55%" />
   [24] 
-<p align="center"><img src="25.JPG" width="45%" />
+<p align="center"><img src="25.JPG" width="40%" />
   [25] 
   
 <br/>
