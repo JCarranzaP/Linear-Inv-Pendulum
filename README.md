@@ -213,12 +213,15 @@ Remote API Functions: simxSetJointTargetVelocity and simxGetJointPosition were u
 <p align="center"><img src="vrep1.JPG" width="45%" /> <img src="model1.JPG" width="45%" /> 
 <p align="center">Figure 12. VRep model 1 
   
-  <br/>
+<br/>
   
 <p align="center"><img src="model2.JPG" width="45%" /> <img src="model2.1.JPG" width="45%" />
 <p align="center">Figure 13. VRep model 2 
   
-  <br/>
+<br/>
 
+<video src="VrepCart.mp4" width="320" height="200" controls preload></video>
 
+<br/>
 
+<video src="VRepRail.mp4" width="320" height="200" controls preload></video>
