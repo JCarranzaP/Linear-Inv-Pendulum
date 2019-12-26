@@ -161,6 +161,14 @@ Using the state space model described above we first ran the open loop response,
 <p align="center"><img src="step1.JPG" width="45%" /> 
 <p align="center"><img src="step2.JPG" width="45%" /> 
 <p align="center"><img src="step3.JPG" width="45%" /> 
+  
+<br/>
+
+We then ran the transfer functions involving the intertial effects of the pendulum.
+
+<br/>
+
+
 
 
 <p align="center">
