@@ -208,10 +208,17 @@ After establishing a successful control using transfer functions. We prepared tw
   
 Remote API Functions: simxSetJointTargetVelocity and simxGetJointPosition were used to control the velocity of the motors on the cart and attempt to retrieve a position/angle from the pendulum. Although simulations show movement of the pendulum, in matlab a angle of 43 degrees is constantly shown. A rebuild of the model or separate functions might be used to correct this issue.
   
-
+<br/>
   
 <p align="center"><img src="vrep1.JPG" width="45%" /> <img src="model1.JPG" width="45%" /> 
+<p align="center">Figure 12. VRep model 1 
+  
+  <br/>
+  
 <p align="center"><img src="model2.JPG" width="45%" /> <img src="model2.1.JPG" width="45%" />
+<p align="center">Figure 13. VRep model 2 
+  
+  <br/>
 
 
 
