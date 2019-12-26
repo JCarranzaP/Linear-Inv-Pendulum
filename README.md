@@ -24,7 +24,8 @@
 
 The goal of the control theory in this project is to describe and predict the underactuated and non-linear motion of a pendulum, and control it to balance upright. What can be expected from this project is a mathematical representation of the physical model that can be run on a computer software system such as matlab or simulink in order to virtually test the systems response to varying conditions. Finally, we will be adding a PID controller in order to balance the pendulum in an upright position. This step will be facilitated through the use of the matlab function “pid”.
 <br/>
-
+<p align="center">Modeling</p>
+<br/>
 <p align="center"><img src="model.JPG" width="250" />
 <p align="center">Figure 1. Simplified model of Inverted Pendulum</p>
 
@@ -114,9 +115,20 @@ With equations [12] through [14] we are able to substitute the approximate value
   
 <br/>
 
-Equations [15] and [16] are the final result for the equations of  motion describing the pendulum on a cart after linearization. What is left to do is to reduce the equations into two sets of transfer functions which we could use on a computer software system to virtually represent the system. To do this, we need to solve for x double dot in equation [15] and substitute this equation into equation [16] since we have two inputs and two outputs in a single equation. After making the substitution, [16] becomes an equation of motion with one input and one output (SISO). Finally, we need to take the laplace transform of this equation and bring it from the time domain into the s-domain. From this form of the equation we can create the transfer function, remembering that the form of the transfer function is output over input. Equation [15] can be processed similarly, only [16] will be solved for an input value and substituted into [15] in this case. The resulting forms of the equations result in the following transfer functions, which can ben be put in matrix form and subsequently evaluated with any values we choose.
+Equations [15] and [16] are the final result for the equations of  motion describing the pendulum on a cart after linearization. What is left to do is to take the Laplace transform of the system equations assuming zero initial conditions. 
 
-<p align="center">Modeling</p>
+
+
+
+
+
+
+
+
+
+What is left to do is to reduce the equations into two sets of transfer functions which we could use on a computer software system to virtually represent the system. To do this, we need to solve for x double dot in equation [15] and substitute this equation into equation [16] since we have two inputs and two outputs in a single equation. After making the substitution, [16] becomes an equation of motion with one input and one output (SISO). Finally, we need to take the laplace transform of this equation and bring it from the time domain into the s-domain. From this form of the equation we can create the transfer function, remembering that the form of the transfer function is output over input. Equation [15] can be processed similarly, only [16] will be solved for an input value and substituted into [15] in this case. The resulting forms of the equations result in the following transfer functions, which can ben be put in matrix form and subsequently evaluated with any values we choose.
+
+
 
 <p align="center">Controller Design and Simulation</p>
 
