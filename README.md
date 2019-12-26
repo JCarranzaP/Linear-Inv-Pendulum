@@ -201,8 +201,17 @@ Taking into account the inertial effects gave us a more realistic model showeing
 
 After establishing a successful control using transfer functions. We prepared two models to test on vrep. The first utilizes an existing mobile robot model (Pioneer p3dx) which we modified and added an inverted pendulum to its top platform. This model closely resembles the state stace model/transfer functions which were derived above. Our second model is a pendulum fixed on a rail. Upon succesful control of our first model our next goal would be to swing the pendulum from a down position to inverted. Unfortunately, we ran into some problems in reading the angle of the pendulum. This angle and the position of the cart would be our inputs for our current state space representation.
 
+<br/>
+
 <p align="center"><img src="vrepmatlab.JPG" width="45%" /> 
+<p align="center">Figure 11. Matlab code to communicate with VRep
+  
+Remote API Functions: simxSetJointTargetVelocity and simxGetJointPosition were used to control the velocity of the motors on the cart and attempt to retrieve a position/angle from the pendulum. Although simulations show movement of the pendulum, in matlab a angle of 43 degrees is constantly shown. A rebuild of the model or separate functions might be used to correct this issue.
+  
+
+  
 <p align="center"><img src="vrep1.JPG" width="45%" /> 
+<p align="center"><img src="matlabssr.JPG" width="45%" />
 
 
 
