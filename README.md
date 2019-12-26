@@ -179,4 +179,8 @@ Taking into account the inertial effects gave us a more realistic model showeing
 
 <p align="center">Simulation</p>
 
+After establishing a successful control using transfer functions. We prepared two models to test on vrep. The first utilizes an existing mobile robot model (Pioneer p3dx) which we modified and added an inverted pendulum to its top platform. This model closely resembles the state stace model/transfer functions which were derived above. Our second model is a pendulum fixed on a rail. Upon succesful control of our first model our next goal would be to swing the pendulum from a down position to inverted. Unfortunately, we ran into some problems in reading the angle of the pendulum. This angle and the position of the cart would be our inputs for our current state space representation.
+
+
+
 
