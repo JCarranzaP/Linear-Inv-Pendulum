@@ -210,8 +210,8 @@ Remote API Functions: simxSetJointTargetVelocity and simxGetJointPosition were u
   
 
   
-<p align="center"><img src="vrep1.JPG" width="45%" /> 
-<p align="center"><img src="matlabssr.JPG" width="45%" />
+<p align="center"><img src="vrep1.JPG" width="45%" /> <img src="model1.JPG" width="45%" /> 
+<p align="center"><img src="model2.JPG" width="45%" /> <img src="model2.1.JPG" width="45%" />
 
 
 
