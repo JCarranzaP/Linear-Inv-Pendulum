@@ -129,21 +129,29 @@ Equations [17] and [18] are the result of the Laplace transport, of which, equat
 <p align="center"><img src="19.JPG" width="45%" />
 <p align="center"><img src="20.JPG" width="45%" /> 
   
-The State Space Representation of the system can also be achieved in the same manner. Taking equation [16] and solving for Phi double dot we can substitute it into equation [15] to eliminate the Phi double dot completely resulting in equation [21].
+The State Space Representation of the system can also be achieved in the same manner. Taking equation [16] and solving for Phi double dot we can substitute it into equation [15] to eliminate the Phi double dot completely resulting in equation [21]. Vice versa solving for X double dot in equation [15] and substituting into equation [16] eliminates X double dot and results in equation [22].
 
+<br/>
 
+<p align="center"><img src="21.JPG" width="45%" />
+<p align="center"><img src="22.JPG" width="45%" /> 
+  
+When trying to tune the PID controller using the above equations we found that the system was too unstable to achieve a desirable outcome, as can be seen in the controller design and simulation section. Therefore, following the aforementioned steps we arrived at the following transfer functions which do account for the inertial mass of the pendulum. 
 
+<br/>
 
-
-
-
-
-
-
-What is left to do is to reduce the equations into two sets of transfer functions which we could use on a computer software system to virtually represent the system. To do this, we need to solve for x double dot in equation [15] and substitute this equation into equation [16] since we have two inputs and two outputs in a single equation. After making the substitution, [16] becomes an equation of motion with one input and one output (SISO). Finally, we need to take the laplace transform of this equation and bring it from the time domain into the s-domain. From this form of the equation we can create the transfer function, remembering that the form of the transfer function is output over input. Equation [15] can be processed similarly, only [16] will be solved for an input value and substituted into [15] in this case. The resulting forms of the equations result in the following transfer functions, which can ben be put in matrix form and subsequently evaluated with any values we choose.
-
-
+<p align="center"><img src="23.JPG" width="45%" />
+<p align="center"><img src="24.JPG" width="45%" /> 
+<p align="center"><img src="25.JPG" width="45%" /> 
+  
+<br/>
 
 <p align="center">Controller Design and Simulation</p>
+
+<br/>
+
+Using the state space model described above we first ran the open loop response, and then tuned the PID controller to achive a semi stable response.
+
+
 
 <p align="center">
