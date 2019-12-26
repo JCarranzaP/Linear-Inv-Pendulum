@@ -117,6 +117,20 @@ With equations [12] through [14] we are able to substitute the approximate value
 
 Equations [15] and [16] are the final result for the equations of  motion describing the pendulum on a cart after linearization. What is left to do is to take the Laplace transform of the system equations assuming zero initial conditions. 
 
+<p align="center"><img src="17.JPG" width="45%" />
+<p align="center"><img src="18.JPG" width="45%" /> 
+
+<br/>
+
+Equations [17] and [18] are the result of the Laplace transport, of which, equation [17] is solved for X(s) [19] and substituted into equation [18]  in order to eliminate X(s) in equation [18]. This allows us to form a (SISO) single input-single output transfer function with the output being Phi(s) and the input U(s) in equation [20] describing the position of the pendulum.
+
+<br/>
+
+<p align="center"><img src="19.JPG" width="45%" />
+<p align="center"><img src="20.JPG" width="45%" /> 
+  
+The State Space Representation of the system can also be achieved in the same manner. Taking equation [16] and solving for Phi double dot we can substitute it into equation [15] to eliminate the Phi double dot completely resulting in equation [21].
+
 
 
 
